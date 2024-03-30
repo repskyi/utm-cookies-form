@@ -7,6 +7,7 @@ This section describes how to install the plugin and get it working.
 Manual Install
 Upload /utm-cookies-form/ to the /wp-content/plugins/ directory
 Activate the plugin through the 'Plugins' menu in WordPress
+
 Standard Install
 In your WordPress Dashboard go to "Plugins" -> "Add Plugin".
 Search for "UTM Cookies Tracking".
